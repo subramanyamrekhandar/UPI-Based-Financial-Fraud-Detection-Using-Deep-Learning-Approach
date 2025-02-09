@@ -1,0 +1,16 @@
+necessary instaling libraries
+--> pip install flask tensorflow pandas numpy scikit-learn h5py
+    conda install -c anaconda h5py
+
+--> 
+
+Create A Conda Environment and cofigures to activate the Environment ( Anaconda Navigator)
+--> conda create -n yolo_envTensorflow python=3.9
+--> conda activate yolo_envTensorflow
+
+
+Run App
+--> 
+streamlit run app.py 
+
+
