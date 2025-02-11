@@ -19,8 +19,4 @@ This project is a comprehensive fraud detection system designed to analyze and p
 - **Scikit-learn**: For machine learning and predictive modeling
 - **Streamlit**: Interactive dashboard for data exploration
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aryan-srivastava1625/-Fraud-Sight.git
